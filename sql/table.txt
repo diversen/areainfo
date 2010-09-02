@@ -1,0 +1,16 @@
+table:
+area_info_dk
+---
+// In denmark this is the Region
+regioncode int index
+regionname varchar 255
+
+// in denmark this is "kommune" or municipal
+municipalcode int
+municipalname varchar 255
+
+// in denmark this is "postnummer" and "by", zipcode and city
+zipcode int
+zipname varchar 255
+
+
