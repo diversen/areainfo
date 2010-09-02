@@ -1,0 +1,3 @@
+url = "mysql:dbname=dbname;host=localhost"
+username = "db_user"
+password = "db_password"
