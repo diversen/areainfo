@@ -31,18 +31,3 @@ foreach ($new_ary as $key => $val){
     }
 }
 
-print_r($new_ary);
-
-// get_postals_by_region_num
-// get_postals_by_region_name
-
-// a postal is connected to an area
-// get_postal_by_area
-// get_area_by_postal
-
-// get_postals_by_municip_num
-// get_postals_by_municip_name
-//
-// get_municip_by_postal
-// 
-//
